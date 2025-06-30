@@ -1,0 +1,9 @@
+{
+  "gamePorts": "27000-27200,37000-37200",
+  "voipPorts": "5060,10000-20000",
+  "priorities": {
+    "game": 0,
+    "voip": 1,
+    "default": 2
+  }
+}
